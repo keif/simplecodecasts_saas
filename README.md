@@ -1,12 +1,10 @@
 # README
 
-Coder Manual Project Application
 Subscription-based web application
-https://codermanual.com
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.4.2p198 (2017-09-14 revision 59899)
 
 * System dependencies
 
@@ -21,5 +19,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+bundle exec rails s
 
 * ...
