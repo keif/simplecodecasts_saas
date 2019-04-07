@@ -44,6 +44,9 @@ gem 'stripe', '4.12.0'
 # Use figaro to hide secret keys
 gem 'figaro', '1.1.1'
 
+# Use paperclip for image uploads
+gem 'paperclip', '~> 4.2.1'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
